@@ -1,8 +1,8 @@
-#Basic Info </b>
-this is my first git-hub project
-it is in c language
-focusing on the the core concepts of:
-1.Loops
-2.Function
-3.Arrays
-4.In-Build Funtions
+#Basic Info <br>
+this is my first git-hub project<br>
+it is in c language<br>
+focusing on the the core concepts of:<br>
+1.Loops<br>
+2.Function<br>
+3.Arrays<br>
+4.In-Build Funtions<br>
